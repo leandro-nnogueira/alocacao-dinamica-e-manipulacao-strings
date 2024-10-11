@@ -1,0 +1,2 @@
+# alocacao-dinamica-e-manipulacao-strings
+ Este repositório contém um trabalho acadêmico que aborda a alocação dinâmica de memória em C, utilizando as funções malloc e free. O programa desenvolvido lê três strings digitadas pelo usuário, grava essas strings em um arquivo e também armazena suas versões invertidas. Este projeto tem como objetivo praticar a manipulação de memória, caracteres e arquivos.
