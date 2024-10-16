@@ -18,7 +18,7 @@ O objetivo deste projeto é praticar:
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/alocacao-dinamica-e-manipulacao-strings.git
+    git clone https://github.com/leandro-nnogueira/alocacao-dinamica-e-manipulacao-strings.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
