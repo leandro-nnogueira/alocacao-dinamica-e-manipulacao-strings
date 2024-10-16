@@ -1,5 +1,3 @@
-# alocacao-dinamica-e-manipulacao-strings
-
 ## Autor
 
 Este projeto foi desenvolvido por Leandro N. Nogueira.
