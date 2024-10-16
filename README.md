@@ -1,7 +1,3 @@
-## Autor
-
-Este projeto foi desenvolvido por Leandro N. Nogueira.
-
 # Alocação Dinâmica e Manipulação de Strings
 
 Este repositório contém um trabalho acadêmico que aborda a alocação dinâmica de memória em C, utilizando as funções `malloc` e `free`. O programa desenvolvido possui as seguintes funcionalidades:
@@ -41,3 +37,7 @@ O objetivo deste projeto é praticar:
 
 - `main.c`: Arquivo principal do programa.
 - `README.md`: Este arquivo, contendo informações sobre o projeto.
+
+## Autor
+
+Este projeto foi desenvolvido por Leandro N. Nogueira.
